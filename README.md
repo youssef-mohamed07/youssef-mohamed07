@@ -132,15 +132,6 @@ def my_passion():
 ---
 
 
-### 💫 **"Code is poetry written for machines to understand and humans to admire"**
-
-```ascii
-╔══════════════════════════════════════════════════════════╗
-║  🚀 Ready to turn ideas into reality?                   ║
-║  💻 Let's collaborate and build the future together!    ║
-║  ⭐ Don't forget to star repositories you find useful!  ║
-╚══════════════════════════════════════════════════════════╝
-```
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling)
 
