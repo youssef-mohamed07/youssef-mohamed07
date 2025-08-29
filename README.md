@@ -18,7 +18,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+Tomorrow's+Apps+Today+%E2%9C%A8" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=youssefmohamed&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/youssefmohamed)
+[![Profile Views](https://komarev.com/ghpvc/?username=youssef-mohamed07&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/youssef-mohamed07)
 
 </div>
 
@@ -102,14 +102,88 @@ def my_passion():
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssefmohamed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmohamed&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef-mohamed07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-mohamed07&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=youssefmohamed&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=youssef-mohamed07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🔥 **WOW COMMITS VISUALIZATION BOARD** 
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║           🌈 COMMIT ACTIVITY HEAT MAP 🌈                     ║
+║     ░░▓▓██ EVERY GREEN SQUARE IS A VICTORY ██▓▓░░           ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssef-mohamed07&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=💻%20Youssef's%20Code%20Journey%20-%20Every%20Commit%20Tells%20a%20Story%20🚀)
+
+</div>
+
+<div align="center">
+
+### 🏆 **COMMIT STATS DASHBOARD**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssef-mohamed07&theme=tokyonight" />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssef-mohamed07&theme=tokyonight" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=youssef-mohamed07&theme=tokyonight" />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youssef-mohamed07&theme=tokyonight" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youssef-mohamed07&theme=tokyonight&utcOffset=2" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 🎯 **3D COMMIT VISUALIZATION**
+[![Youssef's GitHub | Stats](https://stats.quine.sh/youssef-mohamed07/github?theme=dark)](https://quine.sh)
+
+### 🌊 **COMMIT WAVE PATTERN** 
+![GitHub Snake](https://raw.githubusercontent.com/youssef-mohamed07/youssef-mohamed07/output/github-contribution-grid-snake-dark.svg)
+
+```ascii
+    ╔══════════════════════════════════════════════════════════╗
+    ║  📅 365 Days of Code:                                   ║
+    ║  🟩🟩🟦🟦🟪🟪🟫🟫 ← Each square represents dedication  ║
+    ║  💪 Consistency builds expertise!                       ║
+    ╚══════════════════════════════════════════════════════════╝
+```
+
+### 🏅 **ACHIEVEMENT TROPHIES**
+[![trophy](https://github-profile-trophy.vercel.app/?username=youssef-mohamed07&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -184,7 +258,7 @@ const myProjects = {
 
 <div align="center">
 
-[![Youssef's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=youssefmohamed&theme=tokyo-night&hide_border=true)](https://github.com/youssefmohamed)
+[![Youssef's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=youssef-mohamed07&theme=tokyo-night&hide_border=true)](https://github.com/youssef-mohamed07)
 
 </div>
 
@@ -231,6 +305,6 @@ const myProjects = {
 
 **⚡ Fun Fact:** *When I'm not coding, I'm probably thinking about coding!* 😄
 
-[![Made with ❤️ by Youssef Mohamed](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Youssef%20Mohamed-red?style=for-the-badge)](https://github.com/youssefmohamed)
+[![Made with ❤️ by Youssef Mohamed](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Youssef%20Mohamed-red?style=for-the-badge)](https://github.com/youssef-mohamed07)
 
 </div>
