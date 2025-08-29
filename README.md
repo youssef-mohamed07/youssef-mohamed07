@@ -115,58 +115,7 @@ def my_passion():
 
 ---
 
-## 🔥 **WOW COMMITS VISUALIZATION BOARD** 
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║           🌈 COMMIT ACTIVITY HEAT MAP 🌈                     ║
-║     ░░▓▓██ EVERY GREEN SQUARE IS A VICTORY ██▓▓░░           ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssef-mohamed07&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=💻%20Youssef's%20Code%20Journey%20-%20Every%20Commit%20Tells%20a%20Story%20🚀)
-
-</div>
-
-<div align="center">
-
-### 🏆 **COMMIT STATS DASHBOARD**
-
-<table>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssef-mohamed07&theme=tokyonight" />
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssef-mohamed07&theme=tokyonight" />
-</td>
-<td align="center" width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=youssef-mohamed07&theme=tokyonight" />
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youssef-mohamed07&theme=tokyonight" />
-</td>
-<td align="center" width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youssef-mohamed07&theme=tokyonight&utcOffset=2" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
+#
 
 ### 🎯 **3D COMMIT VISUALIZATION**
 [![Youssef's GitHub | Stats](https://stats.quine.sh/youssef-mohamed07/github?theme=dark)](https://quine.sh)
