@@ -131,36 +131,6 @@ def my_passion():
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Youssef's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=youssef-mohamed07&theme=tokyo-night&hide_border=true)](https://github.com/youssef-mohamed07)
-
-</div>
-
----
-
-## 🌐 Connect & Collaborate
-
-<div align="center">
-
-```ascii
-╭─────────────────────────────────────────╮
-│  Let's Build Something Amazing Together │
-╰─────────────────────────────────────────╯
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-mohamed)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/youssef_dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://youssef-portfolio.vercel.app)
-
-</div>
-
----
-
-<div align="center">
 
 ### 💫 **"Code is poetry written for machines to understand and humans to admire"**
 
