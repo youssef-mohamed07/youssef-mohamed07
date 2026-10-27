@@ -12,13 +12,26 @@
 │     ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝        │
 │                                                                 │
 │           🚀 Flutter & Full-Stack Developer 🚀                 │
-│              💻 4th-Year CS Student 💻                         │
+│              💻 Software Engineer 💻                            │
 ╰─────────────────────────────────────────────────────────────────╯
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+Tomorrow's+Apps+Today+%E2%9C%A8" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=youssef-mohamed07&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/youssef-mohamed07)
+
+### 🌐 [youssefmohamed.dev](https://www.youssefmohamed.dev) · [العربية](https://www.youssefmohamed.dev/ar)
+
+**Flutter developer in Cairo** building iOS & Android apps and fast websites in Arabic and English.
+
+[Flutter app development](https://www.youssefmohamed.dev/services/flutter-app-development) ·
+[Website design](https://www.youssefmohamed.dev/services/web-development) ·
+[Projects](https://www.youssefmohamed.dev/projects) ·
+[Blog](https://www.youssefmohamed.dev/blog) ·
+[CV](https://www.youssefmohamed.dev/cv)
+
+📖 Popular guides: [Arabic & RTL in Flutter](https://www.youssefmohamed.dev/blog/flutter-rtl-arabic-guide) · [Arabic plurals in Flutter](https://www.youssefmohamed.dev/blog/flutter-arabic-plurals-intl) · [Flutter or native?](https://www.youssefmohamed.dev/blog/flutter-vs-native-apps)
+
 
 </div>
 
@@ -43,9 +56,9 @@
 ### 🧠 Who Am I?
 ```yaml
 name: "Youssef Mohamed"
-role: "Full-Stack Developer & CS Student"
+role: "Flutter & Full-Stack Developer"
 location: "🌍 Building from Egypt"
-education: "4th Year Computer Science"
+education: "BSc Information Technology (EELU)"
 passion: "Creating Digital Experiences"
 status: "Always Learning, Always Growing"
 ```
