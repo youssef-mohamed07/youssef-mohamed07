@@ -1,161 +1,125 @@
-# 
-
 <div align="center">
 
-```ascii
-╭─────────────────────────────────────────────────────────────────╮
-│  ██╗   ██╗ ██████╗ ██╗   ██╗███████╗███████╗███████╗███████╗   │
-│  ╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝██╔════╝██╔════╝██╔════╝   │
-│   ╚████╔╝ ██║   ██║██║   ██║███████╗███████╗█████╗  █████╗     │
-│    ╚██╔╝  ██║   ██║██║   ██║╚════██║╚════██║██╔══╝  ██╔══╝     │
-│     ██║   ╚██████╔╝╚██████╔╝███████║███████║███████╗██║        │
-│     ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝        │
-│                                                                 │
-│           🚀 Flutter & Full-Stack Developer 🚀                 │
-│              💻 Software Engineer 💻                           │
-╰─────────────────────────────────────────────────────────────────╯
-```
+<img src="https://www.youssefmohamed.dev/avatar-400.webp" width="128" alt="Illustrated portrait of Youssef Mohamed" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+Tomorrow's+Apps+Today+%E2%9C%A8" alt="Typing SVG" />
+# Youssef Mohamed
 
-[![Profile Views](https://komarev.com/ghpvc/?username=youssef-mohamed07&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/youssef-mohamed07)
+**Flutter developer and software engineer in Cairo.**<br />
+I build iOS and Android apps and fast websites, in Arabic and English, for companies in Egypt, the Gulf and Europe.
 
-### 🌐 [youssefmohamed.dev](https://www.youssefmohamed.dev) · [العربية](https://www.youssefmohamed.dev/ar)
-
-**Flutter developer in Cairo** building iOS & Android apps and fast websites in Arabic and English.
-
-[Flutter app development](https://www.youssefmohamed.dev/services/flutter-app-development) ·
-[Website design](https://www.youssefmohamed.dev/services/web-development) ·
-[Projects](https://www.youssefmohamed.dev/projects) ·
-[Blog](https://www.youssefmohamed.dev/blog) ·
-[CV](https://www.youssefmohamed.dev/cv)
-
-📖 Popular guides: [Arabic & RTL in Flutter](https://www.youssefmohamed.dev/blog/flutter-rtl-arabic-guide) · [Arabic plurals in Flutter](https://www.youssefmohamed.dev/blog/flutter-arabic-plurals-intl) · [Flutter or native?](https://www.youssefmohamed.dev/blog/flutter-vs-native-apps)
-
+[![Website](https://img.shields.io/badge/youssefmohamed.dev-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.youssefmohamed.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-mohamed07/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefmohamedahmed2004@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201120592366)
 
 </div>
 
 ---
 
-## 🌟 About Me
+### What I do
 
-<div align="center">
+- **Mobile apps with Flutter.** One codebase for iOS and Android, published on the App Store and Google Play. [More](https://www.youssefmohamed.dev/services/flutter-app-development)
+- **Websites, stores and dashboards with Next.js.** Company sites, online stores and admin panels that load fast. [More](https://www.youssefmohamed.dev/services/web-development)
+- **Arabic and RTL done properly.** Right-to-left layouts, Arabic typography and bilingual SEO from the first day.
 
-```ascii
-    ╔══════════════════════════════════════╗
-    ║  🎯 Mission: Code • Create • Innovate ║
-    ╚══════════════════════════════════════╝
-```
-
-</div>
+### Apps
 
 <table>
-<tr>
-<td width="50%">
-
-### 🧠 Who Am I?
-```yaml
-name: "Youssef Mohamed"
-role: "Flutter & Full-Stack Developer"
-location: "🌍 Building from Egypt"
-education: "BSc Information Technology (EELU)"
-passion: "Creating Digital Experiences"
-status: "Always Learning, Always Growing"
-```
-
-</td>
-<td width="50%">
-
-### 🎨 What Drives Me?
-```python
-def my_passion():
-    return {
-        "frontend": "Crafting beautiful UIs",
-        "backend": "Building robust systems", 
-        "mobile": "Flutter magic ✨",
-        "goal": "Impactful solutions"
-    }
-```
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://www.youssefmohamed.dev/apps/90plus"><img src="https://www.youssefmohamed.dev/projects/apps/90plus/og.jpg" alt="90Plus app screens" /></a>
+      <br /><b>90Plus</b><br /><sub>Football platform: live scores, quizzes, predictions and an AI assistant. Arabic and English.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.youssefmohamed.dev/apps/shary"><img src="https://www.youssefmohamed.dev/projects/apps/shary/og.jpg" alt="Shary app screens" /></a>
+      <br /><b>Shary</b><br /><sub>Real estate app: developers, projects, resale, a market index and an investment academy.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.youssefmohamed.dev/apps/online-ezzay"><img src="https://www.youssefmohamed.dev/projects/apps/online-ezzay/og.jpg" alt="Online Ezzay app screens" /></a>
+      <br /><b>Online Ezzay</b><br /><sub>Arabic-first delivery app with shipping options and live package tracking.</sub>
+    </td>
+  </tr>
 </table>
 
+### Websites
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://www.youssefmohamed.dev/projects/aevenda"><img src="https://www.youssefmohamed.dev/projects/web/aevenda/og.jpg" alt="Aevenda website" /></a>
+      <br /><b>Aevenda</b> · <sub>Event production, Saudi Arabia</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.youssefmohamed.dev/projects/akarati"><img src="https://www.youssefmohamed.dev/projects/web/akarati/og.jpg" alt="Akarati website" /></a>
+      <br /><b>Akarati</b> · <sub>Real estate ERP, UAE</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.youssefmohamed.dev/projects/midex"><img src="https://www.youssefmohamed.dev/projects/web/midex/og.jpg" alt="Midex website" /></a>
+      <br /><b>Midex</b> · <sub>Process engineering, Egypt</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://www.youssefmohamed.dev/projects/hotspot"><img src="https://www.youssefmohamed.dev/projects/web/hotspot/og.jpg" alt="HotSpot website" /></a>
+      <br /><b>HotSpot</b> · <sub>Event technology, Saudi Arabia</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.youssefmohamed.dev/projects/khair-sanad"><img src="https://www.youssefmohamed.dev/projects/web/khair-sanad/og.jpg" alt="Khair Sanad website" /></a>
+      <br /><b>Khair Sanad</b> · <sub>Islamic knowledge platform</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.youssefmohamed.dev/projects/lvmr"><img src="https://www.youssefmohamed.dev/projects/web/lvmr/og.jpg" alt="LVMR Group website" /></a>
+      <br /><b>LVMR Group</b> · <sub>Technical services, France</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://www.youssefmohamed.dev/projects">All projects →</a></p>
+
+### Experience
+
+| Role | Company | Years |
+|---|---|---|
+| Mobile App Developer | Shary Property | 2026 – now |
+| Part-time Web & Mobile Developer | High Level Media Solutions | 2025 – now |
+| Web, Mobile & Full-Stack Developer | Freelance | 2022 – now |
+| Web Developer | Voxium Digital | 2023 – 2025 |
+| Remote Web Developer | Abdulaziz Group | 2022 – 2023 |
+
+BSc in Information Technology, EELU · [Full CV](https://www.youssefmohamed.dev/cv)
+
+### Tools
+
+**Mobile** &nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-0F172A?style=flat-square)
+![Riverpod](https://img.shields.io/badge/Riverpod-0F172A?style=flat-square)
+
+**Web** &nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+
+### Writing
+
+- [Arabic and RTL in Flutter: a practical guide](https://www.youssefmohamed.dev/blog/flutter-rtl-arabic-guide)
+- [Arabic plurals and dates in Flutter with gen-l10n](https://www.youssefmohamed.dev/blog/flutter-arabic-plurals-intl)
+- [Flutter or native: how to choose for your app](https://www.youssefmohamed.dev/blog/flutter-vs-native-apps)
+- [How to get a new company website on Google](https://www.youssefmohamed.dev/blog/get-new-website-on-google)
+
+<p align="right"><a href="https://www.youssefmohamed.dev/blog">All articles →</a></p>
+
 ---
 
-## 🛠️ Tech Arsenal
+<div align="center" dir="rtl">
 
-<div align="center">
-
-### 📱 **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🌐 **Frontend Mastery**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ **Backend Power**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### 🗄️ **Database & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef-mohamed07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-mohamed07&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=youssef-mohamed07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-
-
-## 🔥 Current Focus
-
-<div align="center">
-
-| 🎯 **Learning** | 🚀 **Building** | 🌱 **Growing** |
-|:---:|:---:|:---:|
-| Advanced Flutter | Portfolio Projects | Open Source |
-| Cloud Architecture | E-commerce Apps | Developer Community |
-| AI Integration | Social Platforms | Technical Skills |
-
-</div>
-
----
-
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling)
-
-</div>
-
----
-
-<div align="center">
-
-**⚡ Fun Fact:** *When I'm not coding, I'm probably thinking about coding!* 😄
-
-[![Made with ❤️ by Youssef Mohamed](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Youssef%20Mohamed-red?style=for-the-badge)](https://github.com/youssef-mohamed07)
+**يوسف محمد**، مطوّر تطبيقات Flutter ومواقع ويب من القاهرة · [youssefmohamed.dev/ar](https://www.youssefmohamed.dev/ar)
 
 </div>
